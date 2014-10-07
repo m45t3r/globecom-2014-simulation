@@ -38,5 +38,10 @@ nosetests.xml
 # Dolphin
 .diredtory
 
+# Submodules
 planetlab-workload-traces
 pyCloudSim
+
+# Virtualenv related
+.pipcache
+env
